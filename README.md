@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MnM72809, otherwise known as MnM2620, MM728, Alex728 or MnM2009
 - 👀 I’m interested in C, C#, HTML, JavaScript, CSS, PHP and bash
 - 🌱 I’m currently learning C
-- 📫 How to reach me: moriaan.michiels@gmail.com (personal email)
+- 📫 How to reach me: [moriaan.michiels@gmail.com](mailto:moriaan.michiels@gmail.com) (personal email) or via the Hackclub slack DMs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play violin
 
