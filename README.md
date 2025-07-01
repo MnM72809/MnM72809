@@ -9,6 +9,12 @@ I have a home server and a website (which doesn't have very much things).
 I play Minecraft with my friends and set it up on my home server, then used my website to let them also control the server with an API key.
 If you're curious, the url is [sitemm.ddns.net](https://sitemm.ddns.net)
 
+These are my coding stats from Hack Club (Hackatime):
+
+![WAKATIME STATS](https://github-readme-stats.hackclub.dev/api/wakatime?username=131&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+
+
 <!---
 MnM72809/MnM72809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
